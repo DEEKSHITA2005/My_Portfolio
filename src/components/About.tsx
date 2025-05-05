@@ -29,7 +29,7 @@ const About: React.FC = () => {
             <div className="relative">
               <div className="w-full h-full bg-primary rounded-lg absolute -top-5 -left-5 opacity-10"></div>
               <img 
-                src="./public/Deekshita.jpg" 
+                src="/Deekshita.jpg" 
                 alt="Deekshita working" 
                 className="rounded-lg w-full h-auto relative z-10 shadow-xl"
               />
